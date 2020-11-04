@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(43, 44, 44);
+}
+
+h1 {
+    display: block;
+    background-color: black;
+    color: limegreen;
+    border-radius: 25px;
+    padding: 20px;
+    text-align: center;
+
+}
